@@ -1,0 +1,45 @@
+Firefox	Alt + Shift + key	No Firefox 57 ou mais recente: Control + Option + key or Control + Alt + key
+	                    / MAC_OS:No Firefox 14 ou mais recente: Control + Alt + key
+	                    / MAC_OS:No Firefox 13 ou mais antigo: Control + key
+Edge	Alt + key
+Internet Explorer	Alt + key
+Google Chrome	Alt + key	/ MAC_OS:Control + Alt + key
+Safari	Alt + key	/ MAC_OS:	Control + Alt + key
+Opera 15+	Alt + key	/ MAC_OS:	Control + Alt + key
+Opera 12 Shift + Esc abre uma lista de conteúdos acessíveis pela tecla de acesso e,
+                     em seguida, pode escolher um item pressionando key
+
+KEY | menu
+0       planejameto
+1       orcamento Pessoal
+2       orcamento participativo
+3       calculadora padrao
+4       calculadora Finaceira
+5       receitas culinarias
+6       periodicos
+7       patrimonio
+8       coleçoes diversas
+9       CDs
+a       CDs ROM
+b       Discos
+c       Fitas
+g       Filmes
+h       Fotos
+i       Imagens
+j       Games
+k       Livros
+l       Agenda
+m       Calendario
+n       Diario
+o       CD player
+p       Musica Ambiente
+q       E-mail
+r       Informática
+s       Dicas
+t       Editor de Texto
+u       Discador
+v       Gerar Etiquetas
+w       Acesso a Internet
+x       Buscar..
+
+							
